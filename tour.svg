@@ -1,0 +1,10 @@
+<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="tour">
+<mask id="mask0_7_1753" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="25" height="24">
+<rect id="Bounding box" x="0.75" width="24" height="24" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_7_1753)">
+<path id="tour_2" d="M5.75 22V2H7.75V4H21.75L19.75 9L21.75 14H7.75V22H5.75ZM13.25 11C13.8 11 14.2708 10.8042 14.6625 10.4125C15.0542 10.0208 15.25 9.55 15.25 9C15.25 8.45 15.0542 7.97917 14.6625 7.5875C14.2708 7.19583 13.8 7 13.25 7C12.7 7 12.2292 7.19583 11.8375 7.5875C11.4458 7.97917 11.25 8.45 11.25 9C11.25 9.55 11.4458 10.0208 11.8375 10.4125C12.2292 10.8042 12.7 11 13.25 11ZM7.75 12H18.8L17.6 9L18.8 6H7.75V12Z" fill="#713F12"/>
+</g>
+</g>
+</svg>
