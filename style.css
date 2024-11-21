@@ -14,7 +14,7 @@ body{
     width: 100vw;
     min-height: 100vh;
     background: #FFF;
-    background-image: url(Images/Background.png);
+    background-image: url(Background.png);
     /* border: 2px solid red; */
     display: flex;
     justify-content: center;
